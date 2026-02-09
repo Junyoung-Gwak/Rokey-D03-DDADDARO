@@ -7,6 +7,7 @@ ROKEY 6기 - 협동1(ROS2를 활용한 로봇 자동화 공정 시스템 구현)
 
 이 프로젝트는 **Doosan Robotics M0609** 로봇팔 제어와 웹 기반의 **고객/관리자 모니터링 시스템**을 통합한 솔루션입니다. ROS 2 Humble 환경에서 작동하며, Rosbridge를 통해 웹 인터페이스와 실시간으로 통신합니다.
 ![레터링_근접샷_1_1_1_1_1](https://github.com/user-attachments/assets/470b348c-202b-4db3-a7d3-a7b548e5e3f4)
+![DDADDARO_video_1_1](https://github.com/user-attachments/assets/8e9a15fe-3773-4bdf-9cdb-46da8289e056)
 ---
 
 ## 시스템 설계 그림
@@ -14,6 +15,7 @@ ROKEY 6기 - 협동1(ROS2를 활용한 로봇 자동화 공정 시스템 구현)
 
 ## Flow chart 그림
 ![image.png](attachment:3f7d297d-5cb8-4a3d-a21b-a2032e62eaad:image.png)
+
 
 
 
